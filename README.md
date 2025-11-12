@@ -51,6 +51,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taha-obaid&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=taha-obaid&theme=radical" alt="Streak Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah222888&theme=radical" alt="Streak Stats" />
+
 </p>
 
 ---
