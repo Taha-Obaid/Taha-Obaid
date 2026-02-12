@@ -1,73 +1,129 @@
-<h1 align="center">👋 Hi, I'm M.Taha Obaid</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Modern Web</h3>
+<h1 align="center">Hi, I'm M. Taha Obaid</h1>
+<h3 align="center">Game Developer | MERN & Next.js Developer | Building Interactive Digital Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mtaha-obaid&label=Profile%20views&color=0e75b6&style=flat" alt="mtaha-obaid" />
 </p>
 
+---
+
+## About Me
+
+- Computer Science Graduate  
+- Game Developer (Unity, C#) – Designed and developed a narrative-driven time-based adventure game as my Final Year Project.  
+- Full-Stack MERN Developer (2+ years) – Building scalable, modern web applications.  
+- Passionate about combining interactive storytelling, clean UI/UX, and strong backend systems.  
+- Currently exploring Advanced Next.js, TypeScript, Game Mechanics Design, and Web Performance Optimization.  
+- Open to collaborations in Game Development, Frontend, and Full-Stack Web Projects.  
+- Reach me at: taha.obaid@gmail.com  
+
+---
+
+# Featured Game Project
+
+## Chronostasis – A Time-Locked Town (Final Year Project)
+
+A short narrative-driven adventure game built in Unity (C#) where the player must restore a town frozen in time.
+
+### Concept
+The town was trapped in temporal stasis after a failed ritual involving an ancient artifact.  
+The artifact shattered into three fragments:
+
+- Shard of the Past – Hidden in a mystical library (Alchemy puzzle and rune decoding system).  
+- Shard of the Present – Located in the Mirror Chamber (Reverse-control puzzle mechanic).  
+- Shard of the Future – Found in the Clock Tower (Time-based puzzle challenge).  
+
+### Unique Mechanics
+- Time-Reversal Death Mechanic – Player respawns using temporal shard logic.  
+- Rune Decoding System – Interactive grimoire UI with crafting mechanics.  
+- Narrative-Driven NPC (Maiden of Time) tied directly to the lore.  
+- Environmental storytelling with puzzle-based progression.  
+- Systems and mechanics coded from scratch using Unity and C#.  
+
+### Technologies Used
+- Unity  
+- C#  
+- Custom Dialogue System  
+- Scene-based Puzzle Logic  
+- UI Systems (Grimoire and Crafting)  
+- Basic Visual Effects for Character Design  
+
+---
+
+# Featured Web Projects
+
+### Chatty – Real-Time MERN Chat Application
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+- Socket.io  
+
+### ShopEase – MERN E-commerce Platform
+- Secure authentication  
+- Product and order management  
+- Payment integration  
+- Responsive UI  
+
+### Taskify – Task Management Application
+- RESTful API  
+- Role-based functionality  
+- Full-stack architecture  
+
+---
+
+## Technical Skills
+
+### Game Development
+- Unity  
+- C#  
+- Game Mechanics Design  
+- Narrative Design  
+- UI Systems  
+
+### Web Development
+- React  
+- Next.js  
+- Node.js  
+- Express  
+- MongoDB  
+- JavaScript / TypeScript  
+- Tailwind CSS  
+- Firebase  
+- Git  
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mtaha-obaid&theme=onedark&row=2&column=4" alt="mtaha-obaid" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mtaha-obaid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtaha-obaid&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🔥 **About Me**
-- 🌟 **Experience:** 2 years as a **Full-Stack MERN Developer** building modern, scalable web apps.
-- 💻 **Currently Working On:** [Portfolio Revamp](https://github.com/mtaha-obaid) – showcasing sleek React apps with backend magic.
-- 📚 **Learning & Exploring:** **Next.js**, **TypeScript**, **GraphQL**, **Tailwind CSS**.
-- 🤝 **Collaboration:** Open to **MERN Stack**, **Frontend**, and innovative web projects.
-- 📧 **Reach Me:** [taha.obaid@gmail.com](mailto:taha.obaid@gmail.com)
-- ⚡ **Fun Fact:** I turn coffee ☕ into clean, bug-free code faster than you can scroll Instagram 📱
+## What I Bring
+
+- Strong problem-solving mindset developed through game system design  
+- Ability to design complete systems, not just isolated features  
+- Focus on clean architecture and user experience  
+- Experience in both interactive applications and production-ready web apps  
+- Continuous learner committed to growth  
 
 ---
 
-### 🛠️ **Languages & Tools**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" style="margin:15px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" style="margin:15px"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="margin:15px"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45" style="margin:15px"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" style="margin:15px"/>
-</div>
+## Connect With Me
 
----
-
-### 💡 **Featured Projects**
-- 🔥 [**Sleek Portfolio**](https://github.com/mtaha-obaid) – A modern React portfolio showing off projects, animations, and smooth UX.
-- 💬 [**Chatty MERN App**](https://github.com/mtaha-obaid/chatty) – Real-time chat app using **React**, **Node.js**, and **Socket.io**.
-- 🛒 [**ShopEase**](https://github.com/mtaha-obaid/shopease) – E-commerce platform built with **MERN stack**; smooth UI + secure payments.
-- 📊 [**Taskify**](https://github.com/mtaha-obaid/taskify) – Task manager web app with React frontend and Node/Mongo backend.
-
----
-
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-obaid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-obaid&theme=radical" alt="Streak Stats" />
-
-</p>
-
----
-
-### 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-obaid/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/taha.leghari.92" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/m.taha_obaid/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/mtaha-obaid" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 </p>
+
+---
+
+“ I build experiences — whether it's a world frozen in time or a scalable web platform. ”
