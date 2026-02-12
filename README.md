@@ -97,8 +97,8 @@ The artifact shattered into three fragments:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtaha-obaid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtaha-obaid&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taha-obaid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-obaid&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
